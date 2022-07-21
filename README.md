@@ -44,6 +44,17 @@ The steps for this project are divided into the following subsections:
 ![image](https://user-images.githubusercontent.com/99493522/179751188-48d945cf-7262-4900-b7eb-8cee35c9c71d.png)
 ![image](https://user-images.githubusercontent.com/99493522/179751036-97b185eb-364f-43a1-bf60-1f1dac6909d1.png)
 
+![image](https://user-images.githubusercontent.com/99493522/180218115-97576d86-4053-485a-9767-d961697fa4b6.png)
+![image](https://user-images.githubusercontent.com/99493522/180218241-bf29ed8f-73c1-466b-a4a4-142987f0f9c9.png)
+
+![image](https://user-images.githubusercontent.com/99493522/180218393-82d47b9d-ba42-42e5-8e5a-e94a5a90cc2f.png)
+![image](https://user-images.githubusercontent.com/99493522/180218517-3a335e78-7f88-4ea9-9b75-420ee4e5297c.png)
+
+
+## Contributors
+Chantal Garnett
+
+
 
  
 
